@@ -50,4 +50,4 @@ Not:
 6. `SUPABASE_BUCKET=evrak-files` olarak ayarla.
 7. Deploy tamamlaninca gelen URL'i telefondan ac.
 
-Render servis tanimi [render.yaml](/Users/murattufan/Desktop/evrak-ai/render.yaml) icinde hazir.
+Render servis tanimi [render.yaml](./render.yaml) icinde hazir.

@@ -1,5 +1,11 @@
 # Evrak AI
 
+> AI-assisted document processing with FastAPI, local SQLite storage and optional Supabase integration.
+
+**Stack:** Python · FastAPI · Claude API · SQLite · Supabase
+
+**Security:** Configure credentials as environment variables. Never commit real API keys, uploaded documents or `.env` files.
+
 FastAPI tabanli belge yukleme ve AI ile alan cikarma uygulamasi.
 
 ## Yerel calistirma
